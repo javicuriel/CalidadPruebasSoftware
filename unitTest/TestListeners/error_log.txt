@@ -1,0 +1,11 @@
+Iniciando Test
+Test Case: TcnOne
+Test Name: tname
+Falla. Los detalles son los siguientes: 
+      Expected: 1
+To be equal to: -1
+El tiempo de ejecuccion de tname es de: 0ms
+El tiempo de ejecuccion es de TcnOne es de: 0ms
+El # de Tests ejecutados fue: 1
+0 correctos
+1 incorrectos
